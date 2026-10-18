@@ -1,1 +1,2 @@
 # python-auction-project-rex
+# This is a simple script for an auctioning program. The user is allowed list an item for bid and its bid price. Then they are able to bid for the item. If their bid is less than or equal to the bid price then the program will keep looping until the user places a high enough bid. Once they do the program will congratualate them and prompt them to pay within 24 hours of bidding.
